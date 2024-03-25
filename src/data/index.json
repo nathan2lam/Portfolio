@@ -1,0 +1,44 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "Leveraging HTML, CSS, TypeScript, and the React framework for web-based development"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Learned and using C++ for the core fundamentals of coding and Node.js in my web-based tech stack"
+        },        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "Bringing beautiful and functional designs to life, using resources such as Figma for inspiration"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "N/A",
+            "description": "Projects coming soon!",
+            "link": "View in Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "N/A",
+            "description": "Projects coming soon!",
+            "link": "View in Github"
+        },        
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "N/A",
+            "description": "Projects coming soon!",
+            "link": "View in Github"
+        }
+    ]
+}
