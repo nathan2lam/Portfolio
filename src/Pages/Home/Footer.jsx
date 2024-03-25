@@ -53,6 +53,17 @@ function Footer() {
               </Link>
             </li>
             <li>
+            <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="Contact"
+                className="text-md"
+              >
+                Contact Me
+              </Link>
             </li>
           </ul>
         </div>
@@ -86,7 +97,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">updated 3/24/24</p>
+        <p className="footer--content">updated 3/25/24</p>
         <p className="text-sm">thanks for visiting!</p>
       </div>
     </footer>

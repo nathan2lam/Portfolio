@@ -90,9 +90,21 @@ function Navbar() {
                         >
                             Portfolio
                         </Link> 
-                    </li>      
+                    </li>    
                 </ul>
             </div>
+            <Link
+            onClick={closeMenu}
+           activeClass="navbar--active-content"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={500}
+            to="Contact"
+            className="btn btn-outline-primary"
+            >
+            Contact Me
+            </Link>
         </nav>
     )
 }

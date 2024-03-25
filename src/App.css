@@ -499,7 +499,7 @@ h3 {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: auto;
     column-gap: 32px;
     row-gap: 32px;
 }
@@ -711,6 +711,7 @@ select {
     .contact--form--container {
       width: 100%;
     }
+
     .container {
       display: flex;
       flex-direction: column;

@@ -10,7 +10,8 @@ export default function MyPortfolio() {
                 <div>
                     <a 
                     className="portfolio--section--button"
-                    href="https://github.com/nathan2lam">
+                    href="https://github.com/nathan2lam"
+                    target="_blank">
                         <button className="btn btn-github">
                         <svg
                         xmlns="http://www.w3.org/2000/svg"

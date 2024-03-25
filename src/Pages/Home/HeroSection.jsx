@@ -14,7 +14,7 @@ export default function HeroSection() {
                         <br /> motivated by prospect of attaining knowledge and sharing it with others.
                     </p> 
                 </div>
-                <a href="https://www.linkedin.com/in/lamnathanwsu">
+                <a href="https://www.linkedin.com/in/lamnathanwsu" target="_blank">
                 <button className="btn btn-primary">Connect</button>
                 </a>
             </div>
