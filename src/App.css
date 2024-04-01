@@ -397,7 +397,7 @@ h3 {
  
 .portfolio--section--container {
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: center;
     width: 42.6px;
     gap: 42.6px;
@@ -414,14 +414,16 @@ h3 {
 }
 
 .portfolio--section--img > img {
-    width: 100%
+    width: 100%;
+    height: 284.13px;
 }
 
 .portfolio--section--card {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 32px;
+    justify-content: space-between;
+    gap: 8px;
     flex: 1 0 0;
     background: #ffff;
     box-shadow: 0 0 32px 0 rgba(0,0,0,0.15);
@@ -444,12 +446,16 @@ h3 {
 }
 
 .portfolio--link {
-    text-decoration: none;
     display: flex;
     gap: 16px;
     border-bottom: 1.33px solid var(--primary);
     padding-bottom: 10.6px;
     font-weight: 600;
+}
+
+.portfolio--link > a {
+  text-decoration: none;
+  color: var(--black);
 }
 
 .portfolio--section--card:hover path {

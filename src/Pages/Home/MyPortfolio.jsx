@@ -49,7 +49,9 @@ export default function MyPortfolio() {
                                 </p>
                             </div>
                             <p className="text-sm portfolio--link">
-                                {item.link}
+                                <a href={item.href}
+                                target="_blank">{item.link}
+                                </a> 
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     width="16"

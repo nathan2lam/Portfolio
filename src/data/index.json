@@ -21,24 +21,27 @@
     "portfolio": [
         {
             "id": "1",
-            "src": "./img/placeholder-image.png",
-            "title": "N/A",
-            "description": "Projects coming soon!",
-            "link": "View in Github"
+            "src": "./img/weathericons.png",
+            "title": "Weather Dashboard",
+            "description": "Web application that takes user input and displays weather information of that city. I developed this program as an opportunity to learn API calls and NodeJS.",
+            "link": "View",
+            "href": "https://weatherlam.netlify.app"
         },
         {
             "id": "2",
             "src": "./img/placeholder-image-1.png",
             "title": "N/A",
             "description": "Projects coming soon!",
-            "link": "View in Github"
+            "link": "View in Github",
+            "href": ""
         },        
         {
             "id": "3",
             "src": "./img/placeholder-image-2.png",
             "title": "N/A",
             "description": "Projects coming soon!",
-            "link": "View in Github"
+            "link": "View in Github",
+            "href": ""
         }
     ]
 }
