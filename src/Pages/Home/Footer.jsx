@@ -97,7 +97,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">updated 3/25/24</p>
+        <p className="footer--content">updated 4/1/24</p>
         <p className="text-sm">thanks for visiting!</p>
       </div>
     </footer>
