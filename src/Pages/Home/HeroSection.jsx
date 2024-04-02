@@ -10,8 +10,7 @@ export default function HeroSection() {
                         Developer
                     </h1>
                     <p className="hero--section-description">
-                        I am a computer science major passionate about the development of websites and applications,
-                        <br /> motivated by prospect of attaining knowledge and sharing it with others.
+                        I am a computer science major passionate about the development of websites and applications, motivated by prospect of attaining knowledge and sharing it with others.
                     </p> 
                 </div>
                 <a href="https://www.linkedin.com/in/lamnathanwsu" target="_blank">
